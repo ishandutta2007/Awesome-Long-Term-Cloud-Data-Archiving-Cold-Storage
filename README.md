@@ -5,8 +5,7 @@
 # ❄️ Awesome Long-Term Cloud Data Archiving & Cold Storage
 
 <p align="center">
-  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
-  <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://awesome.re/badge.svg" alt="Awesome" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
@@ -24,7 +23,8 @@
 - [🔓 Open-Source Software & Archival Pipelines](#-open-source-software--archival-pipelines)
 - [📊 Comparison at a Glance](#-comparison-at-a-glance)
 - [🎯 Key Selection Criteria for Cold Storage](#-key-selection-criteria-for-cold-storage)
-- [📈 Star History](#-star-history)
+- [⭐ Star History](#-star-history)
+- [💖 Support](#-support)
 - [🤝 Contributing](#-contributing)
 - [📄 License](#-license)
 
@@ -109,9 +109,19 @@ When architecting a cold data archive strategy, evaluate solutions against these
 
 ---
 
-## 📈 Star History
+##  Star History
+[![Star History Chart](https://www.star-history.com/svg?repos=ishandutta2007/Awesome-Long-Term-Cloud-Data-Archiving-Cold-Storage&type=date&legend=top-left)](https://www.star-history.com/#ishandutta2007/Awesome-Long-Term-Cloud-Data-Archiving-Cold-Storage&type=date&legend=top-left)
 
-[![Star History Chart](https://api.star-history.com/svg?repos=ishandutta2007/Awesome-Long-Term-Cloud-Data-Archiving-Cold-Storage&type=Date)](https://star-history.com/#ishandutta2007/Awesome-Long-Term-Cloud-Data-Archiving-Cold-Storage&type=Date)
+---
+
+## 💖 Support
+
+Thank you for visiting and using this curated directory! If you find this project helpful or valuable for your cloud storage and data archiving projects, please consider supporting it:
+
+- ⭐ **Star this repository** to improve discoverability for fellow architects and engineers
+- 🍴 **Fork and contribute** new open-source archival tools, cloud storage providers, or benchmarks
+- 📢 **Share** this collection with your DevOps, cloud engineering, and storage communities
+- ☕ **Buy me a coffee / Sponsor**: If you'd like to support ongoing curation and maintenance of open-source knowledge bases, please check out the [GitHub Sponsors Dashboard](https://github.com/sponsors/ishandutta2007)
 
 ---
 

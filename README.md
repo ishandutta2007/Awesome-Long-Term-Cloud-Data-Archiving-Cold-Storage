@@ -60,7 +60,7 @@ The table below lists leading commercial cold storage providers, sorted in desce
 
 Open-source archival projects, self-hosted tools, and data-tiering solutions sorted by GitHub stargazer count. Each badge links directly to the project's stargazers community page.
 
-| Project & Repository 📦 | GitHub Stars 🌟 | Primary Stack 🛠️ | License 📜 | Cold Storage Target 🎯 | Key Archival Features 🚀 |
+| Project & Repository 📦 | GitHub_Stars 🌟 | Primary Stack 🛠️ | License 📜 | Cold Storage Target 🎯 | Key Archival Features 🚀 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | **[MinIO](https://github.com/minio/minio)** | [![MinIO Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers) | Go | GNU AGPLv3 | Local Disks, S3, Azure, GCP, Cold Tiers | High-performance distributed S3 object store with automated lifecycle tiering to Glacier & cold clouds |
 | **[Rclone](https://github.com/rclone/rclone)** | [![Rclone Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers) | Go | MIT | 40+ backends (Glacier, B2, Wasabi, Azure) | The "rsync for cloud storage" with chunking, server-side copy, bandwidth throttling, and encryption |
@@ -131,7 +131,7 @@ Contributions are warmly welcomed! 🙌 If you know of an innovative open-source
 
 1. 🍴 **Fork this repository**
 2. 🌿 **Create a feature branch** (`git checkout -b feature/add-new-archiving-tool`)
-3. ✍️ **Add the tool** with precise details (valuation/revenue, starting pricing, free tier limits, star badges)
+3. ✍️ **Add the tool** with precise details (valuation/revenue, starting pricing, free tier limits, Stars_Badges)
 4. 💾 **Commit your changes** (`git commit -m 'Add new open-source archival tool'`)
 5. 🚀 **Push to the branch** (`git push origin feature/add-new-archiving-tool`)
 6. 📬 **Submit a Pull Request**
